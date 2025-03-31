@@ -8,7 +8,6 @@
 ### 👨‍💻 What I'm working on:
 - 💼 IT Support & Help Desk: Active Directory, Azure MFA, Network Support  
 - 🌍 Freelance Web Development: Building modern web apps  
-- 📊 Market analytics: Tracking top countries by orders  
 - ☁️ Cloud & DevOps: Exploring AWS & CI/CD pipelines  
 
 ### 🎯 What I'm learning:
